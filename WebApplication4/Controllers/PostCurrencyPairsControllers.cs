@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -22,7 +22,6 @@ namespace WebAPiCurrencies.Controllers
     {
         private readonly IConfiguration _configuration;
         private const string DATA = @"{""object"":{""name"":""Name""}}";
-        private static string connection = "Data Source=DESKTOP-7PJF1K5;Initial Catalog=Currencies;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
         private static string[] pairsValueToSearch = new string[] { "USDILS", "USDEUR", "USDJPY", "USDGGP" };
         private static string url = $"http://apilayer.net/api/live?access_key=8b8b9482b59ef490e54175be2e4790dc&currencies=&source=USD&format=1";
 
@@ -86,7 +85,7 @@ namespace WebAPiCurrencies.Controllers
         /// <param name="commandParams"></param>
         public static Task<bool> UpdateInTableAsync(string query, IDictionary<string, object> commandParams)
         {
-            using (var conn = new SqlConnection(connection))
+            using (var conn = new SqlConnection(ConfigSettings.connection))
             {
                 using (SqlCommand command = new SqlCommand(query, conn))
                 {
