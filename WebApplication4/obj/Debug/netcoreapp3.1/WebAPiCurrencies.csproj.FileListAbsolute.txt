@@ -1,0 +1,192 @@
+C:\Users\or\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\or\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\or\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.exe
+C:\Users\or\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.deps.json
+C:\Users\or\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.runtimeconfig.json
+C:\Users\or\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.runtimeconfig.dev.json
+C:\Users\or\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.dll
+C:\Users\or\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.pdb
+C:\Users\or\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\or\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\or\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\or\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\or\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\or\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\or\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\or\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\or\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\or\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\or\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\or\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.AssemblyInfoInputs.cache
+C:\Users\or\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.AssemblyInfo.cs
+C:\Users\or\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.csproj.CoreCompileInputs.cache
+C:\Users\or\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\or\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\WebAPiCurrencies.StaticWebAssets.Manifest.cache
+C:\Users\or\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\WebAPiCurrencies.StaticWebAssets.xml
+C:\Users\or\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPiCurrencies.styles.css
+C:\Users\or\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.RazorTargetAssemblyInfo.cache
+C:\Users\or\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.csproj.CopyComplete
+C:\Users\or\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.dll
+C:\Users\or\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.pdb
+C:\Users\or\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.genruntimeconfig.cache
+C:\Users\or\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.csproj.AssemblyReference.cache
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.csproj.AssemblyReference.cache
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.AssemblyInfoInputs.cache
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.AssemblyInfo.cs
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.csproj.CoreCompileInputs.cache
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.dll
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.pdb
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.exe
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.deps.json
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.runtimeconfig.json
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.runtimeconfig.dev.json
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.dll
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.pdb
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\WebAPiCurrencies.StaticWebAssets.Manifest.cache
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\WebAPiCurrencies.StaticWebAssets.xml
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPiCurrencies.styles.css
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.RazorTargetAssemblyInfo.cache
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.csproj.CopyComplete
+C:\Users\or\source\repos\OfakimTask\WebApplication4 - Copy\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.genruntimeconfig.cache
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.csproj.AssemblyReference.cache
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.AssemblyInfoInputs.cache
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.AssemblyInfo.cs
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.csproj.CoreCompileInputs.cache
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.dll
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.pdb
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.exe
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.deps.json
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.runtimeconfig.json
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.runtimeconfig.dev.json
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.dll
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.pdb
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\WebAPiCurrencies.StaticWebAssets.Manifest.cache
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\WebAPiCurrencies.StaticWebAssets.xml
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPiCurrencies.styles.css
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.RazorTargetAssemblyInfo.cache
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.csproj.CopyComplete
+C:\Users\or\source\repos\OfakimTask\APIGet\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.genruntimeconfig.cache
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.exe
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.deps.json
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.runtimeconfig.json
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.runtimeconfig.dev.json
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.dll
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.pdb
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.csproj.AssemblyReference.cache
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.AssemblyInfoInputs.cache
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.AssemblyInfo.cs
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.csproj.CoreCompileInputs.cache
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\WebAPiCurrencies.StaticWebAssets.Manifest.cache
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\WebAPiCurrencies.StaticWebAssets.xml
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPiCurrencies.styles.css
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.RazorTargetAssemblyInfo.cache
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.csproj.CopyComplete
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.dll
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.pdb
+C:\Users\or\source\repos\OfakimTask\APIGet - Copy - Copy\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.genruntimeconfig.cache
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.exe
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.deps.json
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.runtimeconfig.json
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.runtimeconfig.dev.json
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.dll
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.pdb
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.csproj.AssemblyReference.cache
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.AssemblyInfoInputs.cache
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.AssemblyInfo.cs
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.csproj.CoreCompileInputs.cache
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\WebAPiCurrencies.StaticWebAssets.Manifest.cache
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\WebAPiCurrencies.StaticWebAssets.xml
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPiCurrencies.styles.css
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.RazorTargetAssemblyInfo.cache
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.csproj.CopyComplete
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.dll
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.pdb
+C:\Users\or\source\repos\OfakimTask\or\API_Get\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.genruntimeconfig.cache
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.exe
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.deps.json
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.runtimeconfig.json
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.runtimeconfig.dev.json
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.dll
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\bin\Debug\netcoreapp3.1\WebAPiCurrencies.pdb
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.AssemblyInfoInputs.cache
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.AssemblyInfo.cs
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.csproj.CoreCompileInputs.cache
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\WebAPiCurrencies.StaticWebAssets.Manifest.cache
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\WebAPiCurrencies.StaticWebAssets.xml
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPiCurrencies.styles.css
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.RazorTargetAssemblyInfo.cache
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.csproj.CopyComplete
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.dll
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.pdb
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.genruntimeconfig.cache
+C:\Users\or\source\repos\OfakimTask\or\API_Post\WebApplication4\obj\Debug\netcoreapp3.1\WebAPiCurrencies.csproj.AssemblyReference.cache
