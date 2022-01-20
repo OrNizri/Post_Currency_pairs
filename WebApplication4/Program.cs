@@ -16,7 +16,6 @@ namespace WebApplication4
 
         public static void Main(string[] args)
         {
-            PostCurrencyPairsControllers.PostAsync();
             CreateHostBuilder(args).Build().Run();
         }
 
